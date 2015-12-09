@@ -1,5 +1,6 @@
 # Push_swap
 
+[Sujet push_swap] (https://github.com/thibaultauvray/push_swap/blob/master/subject-push_swap.pdf)
 Vous devez faire un programme qui prend en paramètre la pile a sous la forme d’une liste de nombres. Le premier paramètre est au sommet de la pile.
 Le but est de trier la pile avec le moins d’opérations possibles, avec comme opération :
 
